@@ -43,9 +43,9 @@
   <div class="row gx-0">
       <div class="col-lg-8 text-center text-lg-start mb-2 mb-lg-0">
           <div class="d-inline-flex align-items-center" style="height: 45px;">
-              <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" href="https://web.facebook.com/p/HKBP-Sabungan-Siborongborong-100090179947491/?_rdc=1&_rdr"><i class="fab fa-facebook-f fw-normal"></i></a>
-              <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" href="https://www.instagram.com/rnhkbpsabungansiborongborong/"><i class="fab fa-instagram fw-normal"></i></a>
-              <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle" href="https://www.youtube.com/@hkbpsabungansiborongborong3710"><i class="fab fa-youtube fw-normal"></i></a>
+              <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" href=""><i class="fab fa-facebook-f fw-normal"></i></a>
+              <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" href=""><i class="fab fa-instagram fw-normal"></i></a>
+              <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle" href=""><i class="fab fa-youtube fw-normal"></i></a>
           </div>
       </div>
       <div class="col-lg-4 text-center text-lg-end">
@@ -64,7 +64,7 @@
 <div class="container-fluid position-relative p-0">
   <nav class="navbar navbar-expand-lg navbar-light px-4 px-lg-5 py-3 py-lg-0">
       <a href="/" class="navbar-brand p-0">
-          <h1 class="m-0"><i class="fas fa-church me-3" style="font-size: 1.5rem;"></i>HKBP</h1>
+          <h1 class="m-0"><i class="fas fa-church me-3" style="font-size: 1.5rem;"></i>GKPI IMMANUEL</h1>
           {{-- <img src="{{URL::asset('Template/img/logo.png')}}" alt="Logo">  --}}
       </a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
@@ -133,7 +133,7 @@
   <div class="container">
       <div class="row g-4 align-items-center justify-content-center">
           <div class="col-12 text-center mb-md-0">
-              <i class="fas fa-copyright me-2"></i>2024 HKBP Sabungan
+              <i class="fas fa-copyright me-2"></i>2024 GKPI IMMANUEL MEDAN
           </div>
       </div>
   </div>

@@ -23,8 +23,8 @@
             </div>
             <div class="col-lg-7" style="background: linear-gradient(rgba(255, 255, 255, .8), rgba(255, 255, 255, .8)), url(img/about-img-1.png);">
                 <h5 class="section-about-title pe-3">Foto</h5>
-                <h1 class="mb-4">Parhalaho <span class="text-primary">HKBP HKBP-Sabungan-Siborongborong</span></h1>
-                <p class="mb-4">Foto yang ditampilkan adalah salah satu momen dari pelayanan atau Parhalado yang berlokasi di HKBP Sabungan Kota. Parhalado atau pelayanan merupakan bagian penting dalam kehidupan gereja, di mana jemaat berkumpul untuk beribadah, belajar Firman Tuhan, serta saling mendukung dan melayani satu sama lain dalam kehidupan rohani.</p>
+                <h1 class="mb-4">Parhalaho <span class="text-primary">GKPI IMMANUEL MEDAN</span></h1>
+                <p class="mb-4">Foto yang ditampilkan adalah salah satu momen dari pelayanan atau Parhalado yang berlokasi di GKPI IMMANUEL MEDAN. Parhalado atau pelayanan merupakan bagian penting dalam kehidupan gereja, di mana jemaat berkumpul untuk beribadah, belajar Firman Tuhan, serta saling mendukung dan melayani satu sama lain dalam kehidupan rohani.</p>
                 <div class="row gy-2 gx-4 mb-4"></div>
                 
             </div>

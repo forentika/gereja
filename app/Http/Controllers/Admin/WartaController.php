@@ -3,6 +3,9 @@
 namespace App\Http\Controllers\Admin;
 
 use App\Models\Warta;
+use App\Models\Pengurus;
+use App\Models\Datajemaat;
+use App\Models\Donasi;
 use Illuminate\Http\Request;
 use App\Http\Controllers\Controller;
 use Symfony\Contracts\Service\Attribute\Required;
@@ -17,7 +20,11 @@ class WartaController extends Controller
 
     public function dashboard()
     {
-        return view('warta.dashboard');
+        $pengurusCount = Pengurus::count();
+        $jemaatCount = Datajemaat::count();
+        $donasiCount = Donasi::count();
+
+        return view('warta.dashboard', compact('pengurusCount','jemaatCount','donasiCount'));
     }
 
     public function index()

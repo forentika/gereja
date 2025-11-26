@@ -35,7 +35,7 @@
             <div class="mx-auto text-center mb-5" style="max-width: 900px;">
                 <h5 class="section-title px-3">-</h5>
                 <h1 class="mb-4">Galeri</h1>
-                <p class="mb-0">Galeri dari HKBP Sabungan siborong borong berisi tentang kegiatan gereja dan kunjungan Pastoral. Dalam galeri ini, Anda akan menemukan momen-momen yang mengabadikan berbagai kegiatan gereja yang diadakan di HKBP Sabungan Siborong Borong, serta kunjungan pastoral yang dilakukan oleh gereja tersebut. Setiap gambar menceritakan cerita tentang kebersamaan, ibadah, pelayanan, dan berbagai kegiatan lainnya yang dilakukan oleh jemaat dan pemimpin gereja dalam memperkuat iman dan mengembangkan pelayanan gereja. Dengan galeri ini, kami berharap dapat membagikan kegembiraan, inspirasi, dan semangat pelayanan gereja kepada semua yang melihatnya.</p>
+                <p class="mb-0">Galeri dari GKPI IMMANUEL MEDAN berisi tentang kegiatan gereja dan kunjungan Pastoral. Dalam galeri ini, Anda akan menemukan momen-momen yang mengabadikan berbagai kegiatan gereja yang diadakan di GKPI IMMANUEL MEDAN, serta kunjungan pastoral yang dilakukan oleh gereja tersebut. Setiap gambar menceritakan cerita tentang kebersamaan, ibadah, pelayanan, dan berbagai kegiatan lainnya yang dilakukan oleh jemaat dan pemimpin gereja dalam memperkuat iman dan mengembangkan pelayanan gereja. Dengan galeri ini, kami berharap dapat membagikan kegembiraan, inspirasi, dan semangat pelayanan gereja kepada semua yang melihatnya.</p>
             </div>
             <div class="tab-class text-center">
                 <ul class="nav nav-pills d-inline-flex justify-content-center mb-5">
